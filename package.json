@@ -1,0 +1,11 @@
+{
+  "name": "libroia-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node site/scripts/dev.mjs",
+    "start": "node site/scripts/dev.mjs",
+    "build": "npm --prefix site run build"
+  },
+  "engines": { "node": ">=20" }
+}
