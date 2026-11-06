@@ -1,0 +1,92 @@
+{
+  "filename": "libroai-1.0.0-release.apk",
+  "bytes": 140925185,
+  "sha256": "913ab98570fe60983d713160245a31f8d83f06da1acf6c3beacffc005314cf2c",
+  "parts": [
+    {
+      "name": "part-00.bin",
+      "bytes": 8388608,
+      "sha256": "4eaa2005022b916abb6888a938edc3f709507b4ab893545094e6f7040c2fa2a8"
+    },
+    {
+      "name": "part-01.bin",
+      "bytes": 8388608,
+      "sha256": "427290c336b51ed179afdd7b79c76f878f0ae5a8ec741a5de41e43744203dad9"
+    },
+    {
+      "name": "part-02.bin",
+      "bytes": 8388608,
+      "sha256": "b9bc05ed659bd662f49058d8536e36a14a8b86c5cd288644c7cb1fb0011a35e0"
+    },
+    {
+      "name": "part-03.bin",
+      "bytes": 8388608,
+      "sha256": "678c6a27c4de2777b35cc768151e3ef9b3174bd4f40754a5e58c318d9e74fad5"
+    },
+    {
+      "name": "part-04.bin",
+      "bytes": 8388608,
+      "sha256": "c9ef58ae56aa73e180a548539ded93d537808b39d3af2f4e0e4afc13d70f96f4"
+    },
+    {
+      "name": "part-05.bin",
+      "bytes": 8388608,
+      "sha256": "935d694470eabfa4d53545939b3ac2ab459daae7c588717115864652fe1ba921"
+    },
+    {
+      "name": "part-06.bin",
+      "bytes": 8388608,
+      "sha256": "a78a63712597ab4074b134e18e77d7c5ea97e8f1ae20cd8e7b100a7f7a06bb4e"
+    },
+    {
+      "name": "part-07.bin",
+      "bytes": 8388608,
+      "sha256": "800f28898cfe0f4f6f749a07fc71e4ca18d869a0d3a731241e40a813fe6c4c89"
+    },
+    {
+      "name": "part-08.bin",
+      "bytes": 8388608,
+      "sha256": "f1e1ebdef3a32dd57145db50bc3a01a7ecc95d509955cc0d538234d290ea59c0"
+    },
+    {
+      "name": "part-09.bin",
+      "bytes": 8388608,
+      "sha256": "f7af3f24a14f5e74b563933ae7c5091a3fb1ccc1eda9aba00f152e5953c1dbfb"
+    },
+    {
+      "name": "part-10.bin",
+      "bytes": 8388608,
+      "sha256": "f14ab0943aa8ce896981f8deffe81e44e94c9d40701045efe7e4534b442c93db"
+    },
+    {
+      "name": "part-11.bin",
+      "bytes": 8388608,
+      "sha256": "8eb5eb9343aa535f68b8534e896f0cd4693bde946854ddba1964980faeaf4d18"
+    },
+    {
+      "name": "part-12.bin",
+      "bytes": 8388608,
+      "sha256": "00de4746f67571594e78c37eed09b702bf26c25e142959c5da425cf908cebc61"
+    },
+    {
+      "name": "part-13.bin",
+      "bytes": 8388608,
+      "sha256": "367c26e98f39e8f187c2b04127e7f01f8ed76ba67183b00a795ff55d830c35d6"
+    },
+    {
+      "name": "part-14.bin",
+      "bytes": 8388608,
+      "sha256": "2f2c952aa3682c9f3bcb0782709c088b38abbe8caf672569854ba67ab3e7740d"
+    },
+    {
+      "name": "part-15.bin",
+      "bytes": 8388608,
+      "sha256": "3bf8db6ba5b85090145e4423f8cff72b14ec5199c59a4340ae14e631715d1a01"
+    },
+    {
+      "name": "part-16.bin",
+      "bytes": 6707457,
+      "sha256": "58ea14a5f839a0c398d543f793cf92d31324f1804c03958bcc35399b01828cda"
+    }
+  ]
+}
